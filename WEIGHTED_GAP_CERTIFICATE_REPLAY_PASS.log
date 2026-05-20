@@ -1,0 +1,66 @@
+=== Weighted Gap Certificate Replay — Optimized ===
+Scope: D={3,4,7}, k=1 only; no broader generating-set claim.
+finite interval [582,4460]: PASS
+Building residue-admissible systems...
+Case A built: 1361889
+Case B built: 255938
+Case C built: 1501666
+Case A initial residue-admissible count: PASS
+Case B initial residue-admissible count: PASS
+Case C initial residue-admissible count: PASS
+Total residue-admissible systems checked: PASS
+Replaying full paired modular eliminations...
+Case A Q=5: eliminated=109278 remaining=1252611 unique_tests=25
+Case A Q=13: eliminated=1083306 remaining=169305 unique_tests=1521
+Case A Q=19: eliminated=160932 remaining=8373 unique_tests=9345
+Case A Q=31: eliminated=3041 remaining=5332 unique_tests=2730
+Case A Q=37: eliminated=4891 remaining=441 unique_tests=4819
+Case A Q=41: eliminated=72 remaining=369 unique_tests=370
+Case A Q=43: eliminated=75 remaining=294 unique_tests=358
+Case A Q=73: eliminated=227 remaining=67 unique_tests=274
+Case A Q=109: eliminated=55 remaining=12 unique_tests=67
+Case A Q=487: eliminated=10 remaining=2 unique_tests=12
+Case A Q=2917: eliminated=1 remaining=1 unique_tests=2
+Case A Q=17497: eliminated=1 remaining=0 unique_tests=1
+Case B Q=5: eliminated=235625 remaining=20313 unique_tests=400
+Case B Q=11: eliminated=5199 remaining=15114 unique_tests=242
+Case B Q=13: eliminated=10703 remaining=4411 unique_tests=676
+Case B Q=17: eliminated=4297 remaining=114 unique_tests=4335
+Case B Q=19: eliminated=54 remaining=60 unique_tests=90
+Case B Q=29: eliminated=13 remaining=47 unique_tests=58
+Case B Q=31: eliminated=12 remaining=35 unique_tests=46
+Case B Q=37: eliminated=7 remaining=28 unique_tests=35
+Case B Q=41: eliminated=9 remaining=19 unique_tests=28
+Case B Q=43: eliminated=15 remaining=4 unique_tests=19
+Case B Q=257: eliminated=4 remaining=0 unique_tests=4
+Case C Q=5: eliminated=631369 remaining=870297 unique_tests=50
+Case C Q=13: eliminated=746778 remaining=123519 unique_tests=1521
+Case C Q=17: eliminated=6490 remaining=117029 unique_tests=578
+Case C Q=19: eliminated=108371 remaining=8658 unique_tests=6498
+Case C Q=29: eliminated=8398 remaining=260 unique_tests=7991
+Case C Q=31: eliminated=145 remaining=115 unique_tests=252
+Case C Q=37: eliminated=77 remaining=38 unique_tests=114
+Case C Q=41: eliminated=5 remaining=33 unique_tests=38
+Case C Q=43: eliminated=19 remaining=14 unique_tests=33
+Case C Q=73: eliminated=1 remaining=13 unique_tests=14
+Case C Q=197: eliminated=11 remaining=2 unique_tests=13
+Case C Q=1373: eliminated=2 remaining=0 unique_tests=2
+Case A elimination table: PASS
+Case B elimination table: PASS
+Case C elimination table: PASS
+Case A final survivors: PASS
+Case B final survivors: PASS
+Case C final survivors: PASS
+Case A difference-only shadow eliminated: PASS
+Case B difference-only shadow eliminated: PASS
+Case C difference-only shadow eliminated: PASS
+elapsed_seconds = 3.103
+WEIGHTED GAP CERTIFICATE REPLAY — PASS
+Case A: initial = 1,361,889; final survivors = 0
+Case B: initial = 255,938; final survivors = 0
+Case C: initial = 1,501,666; final survivors = 0
+Total residue-admissible systems checked = 3,119,493
+Weighted Gap Lemma: PASS
+Global overlap inequality: PASS
+Fixed theorem chain: PASS
+FINAL STATUS: PASS — WEIGHTED_GAP_PROVED

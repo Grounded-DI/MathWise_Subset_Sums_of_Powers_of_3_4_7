@@ -1,3 +1,5 @@
+Grounded DI LLC
+
 License
 
 The verifier source code in this repository is released under the MIT License.

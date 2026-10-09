@@ -112,3 +112,8 @@ Verifier source code is released under the MIT License. The paper, tables, logs,
 **FIXED-CASE CERTIFICATE · LOCALLY REPLAYED · REPLAYABLE · EXTERNAL VALIDATION UNVERIFIED**
 
 © 2026 Grounded DI LLC.
+
+
+## Curated collection
+
+This companion covering certificate is indexed in [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates/tree/main/erdos-124-subset-sums-347). This repository remains the canonical source.
